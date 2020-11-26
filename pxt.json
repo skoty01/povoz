@@ -1,0 +1,22 @@
+{
+    "name": "povoz",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "RingbitCar": "github:tinkertanker/pxt-ringbitcar#v2.1.11",
+        "microphone": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
